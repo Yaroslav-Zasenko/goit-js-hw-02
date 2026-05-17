@@ -1,2 +1,3 @@
-# goit-js-hw-01
-This is my goit-js-hw-01
+# goit-js-hw-02
+
+This is my goit-js-hw-02!
